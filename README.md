@@ -1,8 +1,8 @@
 # Marshall Grubb
 
 
-[Link to my work](github.com/Evernight27)
+[Link to my work](www.github.com/Evernight27)
 
-[LinkdIn](linkedin.com/in/marshall-grubb-7a5601242/)
+[LinkdIn](www.linkedin.com/in/marshall-grubb-7a5601242/)
 
-[Twitch](twitch.tv/Evernight27)
+[Twitch](www.twitch.tv/Evernight27)
