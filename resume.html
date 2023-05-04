@@ -6,43 +6,46 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Marshall Grubb</title>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/all.min.css">
-  <nav class="navbar" role="navigation" aria-label="main navigation">
-    <div class="navbar-brand">
-      <a class="navbar-item" href="https://marshallgrubb.com/">
-        Home
-      </a>
-      <a class="navbar-item" href="https://marshallgrubb.com/aboutme">
-        About me
-      </a>
-
-      <a class="navbar-item" href="https://marshallgrubb.com/resume">
-        Resume
-      </a>
-
-      <a class="navbar-item" href="https://marshallgrubb.com/projects">
-        Projects
-      </a>
-    </div>
-  </nav>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/css/all.min.css">
 </head>
 
 <body>
   <section class="hero is-dark is-bold is-fullheight">
-    <div class="hero-body">
-      <div class="container is-fluid">
-        <h1 class="title is-1 has-text-centered">
-          Hi! I'm Marshall Grubb.
-        </h1>
-        <br>
-        <div class="has-text-centered">
-          <a href="https://docs.google.com/document/d/1NmN7mBe0Cgmodo7KF5t98ldzGRO6XKnpV8zDSkR0jus/edit?usp=sharing">Download
-            my resume here.
-          </a>
-        </div>
+    <nav class="navbar is-transparent" role="navigation" aria-label="main navigation">
+      <div class="navbar-brand">
+        <a class="navbar-item" href="/">
+          Home
+        </a>
+        <a class="navbar-item" href="/resume">
+          Resume
+        </a>
+        <a class="navbar-item" href="/projects">
+          Projects
+        </a>
       </div>
+    </nav>
+    <div class="hero-body">
+      <iframe
+        class="container is-iframe"
+        src="https://docs.google.com/document/d/e/2PACX-1vRG2el-9dOkHpyZtpNJEHZDWxSu3KzQ0C5ZM12UKE0aCJws1YUPdJABo9vnYdmuBNWYIDXpuLRwyFnN/pub?embedded=true">
+      </iframe>
+
     </div>
   </section>
 </body>
 
 </html>
+<style>
+.is-iframe {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+  width: 100%;
+  height: 90%;
+  overflow: hidden;
+  text-align: center;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+</style>
