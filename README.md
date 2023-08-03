@@ -1,8 +1,12 @@
-[Github](https://www.github.com/Evernight27)
+# [Marshall Grubb's Personal Website](https://marshallgrubb.com)
 
-[LinkedIn](https://www.linkedin.com/in/marshall-grubb-7a5601242/)
+Related Links:
 
-[Twitch](https://www.twitch.tv/Evernight27)
+* [Github](https://www.github.com/Evernight27)
+
+* [LinkedIn](https://www.linkedin.com/in/marshall-grubb-7a5601242/)
+
+* [Twitch](https://www.twitch.tv/Evernight27)
 
 ## Local Development
 
